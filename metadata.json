@@ -1,0 +1,6 @@
+{
+  "name": "Technical Pattern Explainer",
+  "description": "Analyze price action and technical indicators for futures and index products using automated calculations and Gemini AI pattern interpretations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
